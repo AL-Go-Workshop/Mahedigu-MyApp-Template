@@ -1,7 +1,7 @@
 ﻿{
-    "id":  "ESGUID",
+    "id":  "1ed28fa2-fa71-4219-9038-f66f64404cff",
     "name":  "MyApp.ES",
-    "publisher":  "PUBLISHERNAME",
+    "publisher":  "Mahedigu",
     "version":  "1.0.0.0",
     "brief":  "",
     "description":  "",
@@ -20,7 +20,7 @@
         {
             "id":  "W1GUID",
             "name":  "MyApp.W1",
-            "publisher":  "PUBLISHERNAME",
+            "publisher":  "Mahedigu",
             "version":  "1.0.0.0"
         }
     ],

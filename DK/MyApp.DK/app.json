@@ -1,7 +1,7 @@
 ﻿{
-    "id":  "DKGUID",
+    "id":  "84cd3809-6ed8-4e23-a7d1-bf5703523f4a",
     "name":  "MyApp.DK",
-    "publisher":  "PUBLISHERNAME",
+    "publisher":  "Mahedigu",
     "version":  "1.0.0.0",
     "brief":  "",
     "description":  "",
@@ -20,7 +20,7 @@
         {
             "id":  "W1GUID",
             "name":  "MyApp.W1",
-            "publisher":  "PUBLISHERNAME",
+            "publisher":  "Mahedigu",
             "version":  "1.0.0.0"
         }
     ],
